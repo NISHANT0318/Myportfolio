@@ -145,6 +145,10 @@ hr{
     margin: 0.8rem;
 }
 
+.emptydiv{
+    height: 800px;
+}
+
 
 @media screen and (max-width:560px){
 
